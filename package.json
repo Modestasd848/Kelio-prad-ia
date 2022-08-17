@@ -1,0 +1,26 @@
+{
+  "name": "1-intro",
+  "version": "1.0.0",
+  "description": "Pavyzdinis projekto aprasas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modestasd848/Kelio-prad-ia.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Modestas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Modestasd848/Kelio-prad-ia/issues"
+  },
+  "homepage": "https://github.com/Modestasd848/Kelio-prad-ia#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
